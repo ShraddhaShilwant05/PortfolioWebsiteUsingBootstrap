@@ -1,0 +1,16 @@
+body{
+   margin: 0;
+   border: 0;
+   padding: 0;
+    color:black;
+}
+
+.header{
+    width: auto;
+    background-color:skyblue;
+}
+
+footer{
+    width: auto;
+    background-color:skyblue;
+}
